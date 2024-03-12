@@ -2,7 +2,7 @@ Random Password Generator
 
 This is a simple web application that generates random passwords with the click of a button. The passwords generated are secure and contain a mix of uppercase letters, lowercase letters, numbers, and special characters.
 
-Deployment link: https://effortless-pony-543ac2.netlify.app/
+Deployment link: https://leakagegh.github.io/Password-Generator/
 
 Features
 
